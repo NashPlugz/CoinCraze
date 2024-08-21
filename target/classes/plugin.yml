@@ -1,0 +1,4 @@
+name: CoinCraze
+version: '1.0-SNAPSHOT'
+main: me.nashplugz.coinc.coinc.CoinCraze
+api-version: '1.21'
